@@ -1,2 +1,2 @@
 # Dice-Game
-DOM, JS
+In this project I studied the DOM and its connection to JS.
